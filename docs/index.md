@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Hidden Berkeley-compss 211A-HW2 Iris L.
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+New to Berkeley? This guide brings together places to read, explore, and find useful services around campus.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
